@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812053872655",
+    "project_id": "mozstore-82c6c",
+    "storage_bucket": "mozstore-82c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812053872655:android:b4035cbaefb0dd6f3f637a",
+        "android_client_info": {
+          "package_name": "com.tech4dev.mozstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812053872655-amg3ef4n2fhbufoiu54r5uge75j6m7vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ2pzlfrYxFNKJCCsW5HelziLOSG985aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812053872655-amg3ef4n2fhbufoiu54r5uge75j6m7vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
