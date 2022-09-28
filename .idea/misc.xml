@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.136" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.136" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/layout/fragment_account.xml" value="0.12552083333333333" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/layout/fragment_cart.xml" value="0.12552083333333333" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/MOZStore/app/src/main/res/menu/home_menu.xml" value="0.26979166666666665" />
       </map>
     </option>
   </component>
